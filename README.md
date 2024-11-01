@@ -3,7 +3,9 @@
 ![image](https://github.com/user-attachments/assets/1502fc90-92d3-4d75-8a17-23c109e5739d)
 
 ## About Us 🌟
-Inexon is a leading organization in [your industry/field]. We are dedicated to [your mission or vision]. Our team is passionate about [key areas of focus or expertise].
+Inexon is a leading organization in Hardware and Software Industry. We are dedicated to empower businesses and individuals through the seamless
+              integration of technology, enabling them to achieve their goals efficiently and effectively.
+      
 
 ## Our Projects 📂
 Here are some of our key projects:

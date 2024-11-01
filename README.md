@@ -1,6 +1,6 @@
 # Welcome to Inexon! 🚀
 
-![image](https://github.com/user-attachments/assets/03d968e3-11e0-45a8-8002-7f1c5560e079)
+![image](https://github.com/user-attachments/assets/1502fc90-92d3-4d75-8a17-23c109e5739d)
 
 ## About Us 🌟
 Inexon is a leading organization in [your industry/field]. We are dedicated to [your mission or vision]. Our team is passionate about [key areas of focus or expertise].

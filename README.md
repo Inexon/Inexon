@@ -27,10 +27,11 @@ At Inexon, we leverage a variety of cutting-edge technologies to deliver our sol
 
 ## Get in Touch 📬
 We'd love to hear from you! Reach out to us at:
-- **Email**: your-info@inexonsoft.com
+- **Email**: info@inexonsoft.com
 - **LinkedIn**: https://www.linkedin.com/company/inexonsoft-technologies/
-- **Twitter**: @Inexon <!-- Replace with your Twitter URL -->
+- **Twitter**:https://x.com/inexonsoft
 
+  
 ## GitHub Stats 📊
 !GitHub Stats <!-- Replace with your GitHub username -->
 

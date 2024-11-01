@@ -1,6 +1,6 @@
 # Welcome to Inexon! 🚀
 
-!Inexon Logo <!-- Replace with your logo URL -->
+https://inexonsoft.com/assets/images/logo-icon.svg
 
 ## About Us 🌟
 Inexon is a leading organization in [your industry/field]. We are dedicated to [your mission or vision]. Our team is passionate about [key areas of focus or expertise].
@@ -24,12 +24,6 @@ At Inexon, we leverage a variety of cutting-edge technologies to deliver our sol
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **DevOps Tools**: Docker, Kubernetes, Jenkins
 - **Cloud Platforms**: AWS, Azure, Google Cloud
-
-## Our Team 👥
-Meet the amazing people behind Inexon:
-- **Name 1**: Role - Brief bio.
-- **Name 2**: Role - Brief bio.
-- **Name 3**: Role - Brief bio.
 
 ## Get in Touch 📬
 We'd love to hear from you! Reach out to us at:

@@ -33,9 +33,6 @@ We'd love to hear from you! Reach out to us at:
 - **LinkedIn**: https://www.linkedin.com/company/inexonsoft-technologies/
 - **Twitter**:https://x.com/inexonsoft
 
-  
-## GitHub Stats 📊
-!GitHub Stats <!-- Replace with your GitHub username -->
 
 ## Join Us 💼
 Interested in joining our team? Check out our careers page for current openings.

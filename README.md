@@ -7,9 +7,15 @@ Inexon is a leading organization in [your industry/field]. We are dedicated to [
 
 ## Our Projects 📂
 Here are some of our key projects:
-- **Project A**: Brief description of Project A.
-- **Project B**: Brief description of Project B.
-- **Project C**: Brief description of Project C.
+- **CRM**
+- **HRMS**
+- **bms(Buisness Management System)**
+- **Gym Management System**
+- **School Management System**
+- **Whatsapp API**
+- **Hospital Management System**
+- **Restaurant Management System**
+
 
 ## Technologies We Use 💻
 At Inexon, we leverage a variety of cutting-edge technologies to deliver our solutions:
@@ -27,8 +33,8 @@ Meet the amazing people behind Inexon:
 
 ## Get in Touch 📬
 We'd love to hear from you! Reach out to us at:
-- **Email**: your-email@example.com
-- **LinkedIn**: Inexon LinkedIn <!-- Replace with your LinkedIn URL -->
+- **Email**: your-info@inexonsoft.com
+- **LinkedIn**: https://www.linkedin.com/company/inexonsoft-technologies/
 - **Twitter**: @Inexon <!-- Replace with your Twitter URL -->
 
 ## GitHub Stats 📊

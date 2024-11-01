@@ -32,4 +32,3 @@ Interested in joining our team? Check out our careers page for current openings.
 ---
 
 *Thank you for visiting our GitHub profile! We look forward to collaborating with you.* 😊
-

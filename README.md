@@ -11,6 +11,14 @@ Here are some of our key projects:
 - **Project B**: Brief description of Project B.
 - **Project C**: Brief description of Project C.
 
+## Technologies We Use 💻
+At Inexon, we leverage a variety of cutting-edge technologies to deliver our solutions:
+- **Programming Languages**: Python, JavaScript, Java, C++
+- **Frameworks**: React, Angular, Django, Spring
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **DevOps Tools**: Docker, Kubernetes, Jenkins
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+
 ## Our Team 👥
 Meet the amazing people behind Inexon:
 - **Name 1**: Role - Brief bio.
